@@ -29,17 +29,6 @@ export default [
           { text: 'Leonardo', link: 'https://leonardo.ai/', target: '_blank' },
         ]
       },
-      {
-        text: '站长作品',
-        items: [
-          { text: 'h5player', link: 'https://github.com/xxxily/h5player', target: '_blank' },
-          { text: 'Fiddler-plus', link: 'https://github.com/xxxily/Fiddler-plus', target: '_blank' },
-          { text: 'broadcast-message', link: 'https://broadcast-message.anzz.top/', target: '_blank' },
-          { text: 'vue-debug-helper', link: 'https://github.com/xxxily/broadcast-message', target: '_blank' },
-          { text: 'processAssist', link: 'https://github.com/xxxily/processAssist', target: '_blank' },
-          { text: 'ffmpeg-script', link: 'https://github.com/xxxily/ffmpeg-script', target: '_blank' },
-        ]
-      },
     ]
   },
 ]
