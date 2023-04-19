@@ -5,7 +5,7 @@ export default {
   title: 'XXXX-AI',
   description: '这个是个帮助自己链接到广阔AI世界的项目，也希望能帮助到你。',
   lang: 'zh-CN',
-  base: './',
+  base: '/',
   outDir: './docs',
   head: [
     [
@@ -20,7 +20,7 @@ export default {
     siteTitle: 'XXXX-AI',
     outlineTitle: '目录',
     outline: [2, 3],
-    logo: '/assets/img/logo.png',
+    logo: './assets/img/logo.png',
     nav: zhNav,
     // navbar: true,
     // sidebar: 'auto',
